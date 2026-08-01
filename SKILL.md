@@ -1,3 +1,8 @@
+---
+name: Water Quality Remote Sensing
+description: 'Estimate chlorophyll-a, turbidity, and other optically active water-quality parameters from red and green band reflectance (NIR/SWIR optional). Accepts two-band GeoTIFFs as input.'
+---
+
 
 ## Prerequisites / 先准备 X 文件
 
